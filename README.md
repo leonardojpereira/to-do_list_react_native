@@ -15,7 +15,7 @@ Esta é uma aplicação móvel desenvolvida em React Native, projetada para ajud
 
 ## 💻 Tecnologias utilizadas
 -  <img align="center" alt="logo_react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **ReactJS**: Um poderoso framework JavaScript para construção de interfaces de usuário.
--  
+
 ## :electric_plug: Instalação e Uso
 
 Siga as instruções abaixo para instalar e executar o projeto em sua máquina:
@@ -24,7 +24,6 @@ Siga as instruções abaixo para instalar e executar o projeto em sua máquina:
 2. Certifique-se de ter o Node.js e o React Native configurados corretamente em seu ambiente.
 3. Instale as dependências executando npm install.
 4. Inicie o aplicativo usando npm start ou react-native run-android para Android e react-native run-ios para iOS.
-
 
 ⌨️ with ❤️ by [Leonardo Barbosa](https://github.com/leonardojpereira) 😊
 
