@@ -14,7 +14,7 @@ Esta é uma aplicação móvel desenvolvida em React Native, projetada para ajud
 * [Visual Studio Code](https://code.visualstudio.com) - Coding Editor
 
 ## 💻 Tecnologias utilizadas
--  <img align="center" alt="logo_react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **ReactJS**: Um poderoso framework JavaScript para construção de interfaces de usuário.
+-  <img align="center" alt="logo_react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React Native**
 
 ## :electric_plug: Instalação e Uso
 
